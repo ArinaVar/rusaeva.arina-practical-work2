@@ -12,6 +12,8 @@ namespace RusaevaGit
         {
             int x = 81;
             Console.WriteLine($"Вывод: {x}");
+            int y = 13;
+            Console.WriteLine($"Вывод: {y}");
         }
     }
 }
