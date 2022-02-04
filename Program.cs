@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RusaevaGit
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 81;
+            Console.WriteLine($"Вывод: {x}");
+        }
+    }
+}
